@@ -6,3 +6,12 @@ Using mathematical functions with some random elements, SIm's program would gene
 -The program wouls create variations of the selected artwork by introducing randomness into the underlying mathematical fuctions
 -The person would then select a favourite of the mutations, and so on, for many interations
 -This process generated some stunning abstract works that have been exhibited widely in museum shows
+- In Sim's project, the creativity results from the teamwork of human and computer.
+- Computer generates initial artworks and then successive variations, and the human provides the judgememt of the resulting works, which comes from the human understanding of abstract artistic concepts
+
+** Music **
+- The most famous computer program that generated music in this way was the Experiments in the Musical Intelligence program (EMI)
+- EMI was designed to generate music in the style of variuos classical composers, and some of its pieces managed to fool even professional musicians into believing thay had written by the actual composer
+- EMI was created by the composer David Cope, oroginally to serve as a kind of personal composer's assistant
+- Cope has been intrigued by the long tradition of employing randomness to generate music
+- 
