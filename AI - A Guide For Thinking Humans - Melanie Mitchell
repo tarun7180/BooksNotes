@@ -14,4 +14,10 @@ Using mathematical functions with some random elements, SIm's program would gene
 - EMI was designed to generate music in the style of variuos classical composers, and some of its pieces managed to fool even professional musicians into believing thay had written by the actual composer
 - EMI was created by the composer David Cope, oroginally to serve as a kind of personal composer's assistant
 - Cope has been intrigued by the long tradition of employing randomness to generate music
-- 
+- To get EMI to create pieces in the style of,say, Mozart, Cope first selected from Mozart's work a large collection of short musical segments 
+and applied a computer program he had written that identified key musical patterns he called 'signatures' - patterns that help define the composer's unique style
+- Cope wrote another program that classified each signature as to the particular musical roles it could play in a piece
+- These signatures were stored in a DB corresponding to the composer (Mozart, in our example)
+- Cope also developed in EMI a set of rules - a kind of musical 'grammer' - that captured constraints for how variations of signatures could be recombined to create a coherent piece of music in a particular style
+- EMI employed a random-number generator to select signatures and create musical segments from them; the program then used its musical grammer to help decide how to order the segments
+- In this way, EMI could generate a limitless number of new compositions in the style of Mozart or any othefr composer for whom a DB of musical signatures had been constructed
