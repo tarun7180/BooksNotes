@@ -11,3 +11,9 @@
 - But at some point, a prediction machine may become so accurate and reliable that it changes how an organization does things
 - Some AIs will affect the economics of a business so dramatically that they will no longer be ised to simply enhance productivity in executing against the strategy; they will change the strategy itself.
 - Amazon obtained a US patent for "anticipatory shipping" in 2013
+- Prediction facilitates decisions by reducing uncertainity, while judgement assigns value.
+- In economists parlance, judgement is the skill used to determine a payoff, utility, reward, or profit
+- The most significany implication of prediction machines designed to perform a specific task
+- Some AIs will have such a profound effect on the economics of a task that they will transform a business or industry
+- That's when AI becomes the cornerstone of an organization's strategy
+- AIs that have an imoact on strategy shift the attention on AI from product managers and operatiions engineers to the C-suite
