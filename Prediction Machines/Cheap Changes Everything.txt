@@ -17,3 +17,7 @@
 - Some AIs will have such a profound effect on the economics of a task that they will transform a business or industry
 - That's when AI becomes the cornerstone of an organization's strategy
 - AIs that have an imoact on strategy shift the attention on AI from product managers and operatiions engineers to the C-suite
+- Economics provide clear insights regarding the business imlications of cheaper predictions.
+- Prediction machine will be used for traditional prediction tasks (inventory nd demand forecasting) and new problems (like navigation and translation).
+- The drop in the cost of prediction will impact the value of other things, increasing the value of complements(date, judgement, and action) and diminishing the value of substitutes(humsn prediction)
+
