@@ -19,5 +19,7 @@
 - AIs that have an imoact on strategy shift the attention on AI from product managers and operatiions engineers to the C-suite
 - Economics provide clear insights regarding the business imlications of cheaper predictions.
 - Prediction machine will be used for traditional prediction tasks (inventory nd demand forecasting) and new problems (like navigation and translation).
-- The drop in the cost of prediction will impact the value of other things, increasing the value of complements(date, judgement, and action) and diminishing the value of substitutes(humsn prediction)
-
+- The drop in the cost of prediction will impact the value of other things, increasing the value of complements(date, judgement, and action) and diminishing the value of substitutes(human prediction)
+- Organizations can exploit prediction machines by adopting AI tools to assist with exeduting their current strategy
+- When these tools become powerful, they may motivate changing the strategy itself
+- For instance, if Amazon can predict what shoppers want, they may move from a shop-then-ship model to a ship-then-shop model bringing goods to homes before thay are ordered. Such a shift will transform the organization 
