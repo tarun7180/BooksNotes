@@ -23,3 +23,5 @@
 - Organizations can exploit prediction machines by adopting AI tools to assist with exeduting their current strategy
 - When these tools become powerful, they may motivate changing the strategy itself
 - For instance, if Amazon can predict what shoppers want, they may move from a shop-then-ship model to a ship-then-shop model bringing goods to homes before thay are ordered. Such a shift will transform the organization 
+- As a result of the new strategies that organizations pursue to take the advantage of AI, we will be faced with a new set of tradeoffs related to how AI will impact society.
+- Our choices will depend on our needs and preferences, and will almost surely be different across different countries and cultures
