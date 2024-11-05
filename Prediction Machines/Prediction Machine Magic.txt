@@ -4,3 +4,4 @@
 - Prediction takes information you have, often called "data", and uses it to generate information you don't have
 - In addidtion to generating the information about the future, prediction can generate information about the present and the past.
 - The impact of small improvements in prediction accuracy can be deceptive
+- The seemingly mundane process of filling in the missing information can make prediction machines seem magical. This has already happened as machines see, navigate and translate
