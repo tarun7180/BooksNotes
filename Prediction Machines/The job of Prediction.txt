@@ -1,2 +1,7 @@
 - Uncertainity prevades decision-making
-- Modt decision-making, in business and elsewhere, takes place without an explicit insurance market
+- Most decision-making, in business and elsewhere, takes place without an explicit insurance market
+- In the nineteenth century, the constraint on weather prediction was data-just as it was for the Germans in the World War II.
+- But communication allows the data to get to where it was needed
+- In the twentieth century, the availablity to generate forecasts using a model or simulation of global weather systems was constrained by the sheer complexity of the calculations.
+- With older computers, an accurate prediction of weather 24 hours in advance was possible, but it would take more than 24 hours to calculate
+- The advances in computer technologies - especially supercomputers - relaxed that constarint
