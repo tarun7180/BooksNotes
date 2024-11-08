@@ -5,3 +5,6 @@
 - In the twentieth century, the availablity to generate forecasts using a model or simulation of global weather systems was constrained by the sheer complexity of the calculations.
 - With older computers, an accurate prediction of weather 24 hours in advance was possible, but it would take more than 24 hours to calculate
 - The advances in computer technologies - especially supercomputers - relaxed that constarint
+- When you should decide can be a complicated matter. Often decisin have their own time
+- The availabilty of more timely predictions means that there is valur to taking more time before you decide to do something. That means changing our habits and also potentially our workflows to take advantage of those real options
+- In this regard, better prediction does not necessarily mean that our decisions become easier to make, but instead, that there is value in making our decisions somewhat harder in terms of what options we throw into the mix
