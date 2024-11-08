@@ -8,3 +8,5 @@
 - When you should decide can be a complicated matter. Often decisin have their own time
 - The availabilty of more timely predictions means that there is valur to taking more time before you decide to do something. That means changing our habits and also potentially our workflows to take advantage of those real options
 - In this regard, better prediction does not necessarily mean that our decisions become easier to make, but instead, that there is value in making our decisions somewhat harder in terms of what options we throw into the mix
+- Interestingly, in the absence of prediction, when you insurance to minimize waste, the waste is visible.
+- By contrast, with protection, the waste may be harder to see. Thus even though the underlying uncertainity is the same, it is not hard to imagine situations in which businesses choose to adopt AI when waste is visible and not adopt it when it is hidden
