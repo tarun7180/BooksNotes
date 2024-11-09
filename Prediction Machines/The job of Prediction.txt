@@ -12,3 +12,11 @@
 - By contrast, with protection, the waste may be harder to see. Thus even though the underlying uncertainity is the same, it is not hard to imagine situations in which businesses choose to adopt AI when waste is visible and not adopt it when it is hidden
 - The trade-off between gambling (taking your chances) and insurance depends on the quality of information available to the decision maker before choosing an action
 - As prediction improves, decision-makers will switch from insurance to gammbling in terms of managing risk
+- Risk exposure matters because different actions might have different risk consequences.
+- Consider a farmer who is considering how much land they might cultivate for a maize crop. The yield of such a crop heavily depends on the forthcoming rainfall. High rainfall means a high yield; low rainfall can mean a low or no yield. As rainfall is a measurable event that is also not in the farmers' control, an insurance product based on rainfall outcomes might change decisions. That product would payout if there was low rainfall
+- By cultivating more, they are betting on high rain, and by buying insurance, they are betting on low rain. Do both and they are making no bets at all.
+- If risk exposure is holding cultivation back, then adding insurance should change that decision. 
+- If risk exposure is not the constraint, then insurance won't do anything
+- This tells us that insurance can change decisions toward what might otherwise be risky options. But so can enhanced prediction
+- If it were possible for farmers to better forecast rainfall for the coming year, then they could derisk their decisions by forgoing cultivation in years when little rainfall is predicted.
+- In other words, enhanced prediction, like insurance, can turn an otherwise risky option into a less risky one
