@@ -20,3 +20,5 @@
 - This tells us that insurance can change decisions toward what might otherwise be risky options. But so can enhanced prediction
 - If it were possible for farmers to better forecast rainfall for the coming year, then they could derisk their decisions by forgoing cultivation in years when little rainfall is predicted.
 - In other words, enhanced prediction, like insurance, can turn an otherwise risky option into a less risky one
+- As an alternative to gambling, there are two broad ways to manage risks: (1) insurance, and (2) protection.
+- Enhanced predictin would increae the returns to gambling and require less insurance because more accurate forecasting facilitates better pricing for the spot market, increasing capacity used and reducing reliance on long-term fixed-price contracts
