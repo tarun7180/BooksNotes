@@ -1,1 +1,15 @@
-
+- Better data, and computers are at the core of the progress in prediction
+- To understand their value, let's consoder a long standing problem or prediction: forecasting what marketers call "customer churn"
+- The first step in reducing churn is to identify at-risk customers. Companies can use prediction technologies to do that
+- Historically, the core method for predicting churn was a statistical technique called "regression"
+- What does regression do? It finds a prediction based on the average of whathas occurred in the past
+- Much of what we know about prediction has been making our calculatins of the average better by building models that can take in more data about the context. We have done this by using something called "the conditional average"
+- Before machine learning, multivariate regression provided an efficient way to condition on multiple things, without he need to calculate dozens, hundreds, or thousands of conditional averages
+- Regression take the data and tries to find the rsult that minimizes prediction milstakes, maximizing what is called "goodness of fit"
+- Regression minimizes prediction mistakes on average and ounishes large errors more than small ones. It is a powerful method, espicially with relatively small data sets and a good sense of what will be useful in prediction
+- In addition, regression models aspire to generate unbiased results, so with enough preictions, thes epredictions will be exactly correct on average
+- Unlike regression, machine learning predictions might be wrong on average, but when the prediction miss, they often don't miss by much. Statistician describe this as allowing some bias in exchange for reducing variance
+- An importane difference between machine learning and regression analysis is te way in which new techniques are developed
+- Inventing a new machine learning method involves proving that it works better in practice. In contrast, inventing a new regression method requires first proving it works in theory
+- The focus on working in practice gave machine learning innovators more room to experiment, even if their methods generated estimates that were incorrect on average, or biased
+- Improvements in machine learning methods, generally, and deep learning, in particular, mean that it is possible to efficiently turn available data into accurate predictions of churn. and machine learning methods now clearly dominate regression and various other techniques
