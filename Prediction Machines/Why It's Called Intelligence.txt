@@ -13,3 +13,10 @@
 - Inventing a new machine learning method involves proving that it works better in practice. In contrast, inventing a new regression method requires first proving it works in theory
 - The focus on working in practice gave machine learning innovators more room to experiment, even if their methods generated estimates that were incorrect on average, or biased
 - Improvements in machine learning methods, generally, and deep learning, in particular, mean that it is possible to efficiently turn available data into accurate predictions of churn. and machine learning methods now clearly dominate regression and various other techniques
+- The financial crisis of 2008 was a spectecular failure of regression based prediction methods
+- The failure was not due to insufficient data, but instead how analysts used that data to form a prediction.
+- Ratings agencies based their prediction on multiple regression - like models that assumed house prices in different markets were not correlated with one another
+- Analystes buile their regression models on hypothesis of what they believed mattered and how - beliefs unnecessary for machine learning
+- Machine learning models are particularly good at determining which of many possible variables will work best and recognizing that some things don't matter and others, perhaps surprisingly, do.
+- Now, an analyst's intuition and hypotheses are less important
+- In this way, machine learning enables predictions based on unanticipated correlations
