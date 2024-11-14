@@ -20,3 +20,17 @@
 - Machine learning models are particularly good at determining which of many possible variables will work best and recognizing that some things don't matter and others, perhaps surprisingly, do.
 - Now, an analyst's intuition and hypotheses are less important
 - In this way, machine learning enables predictions based on unanticipated correlations
+- It is tempting to consider the most recent developments in AI and machine learning as just " traditional statistics on steroids"
+- In one sense that is true, since the ultimate goal is to generate a prediction to fill i missing information
+- Moreover, the process of machine learning involves searching for a solution that tends to minimize errors
+- Effective prediction changes the way computers are programmed
+- Neither traditional statistical methods nor algorithms of if-then statements operate well in complex environments
+- A key technology underpinning recent advances, labeled "deep learning", relies on an approach called "back propogation".
+- It avoids all this in a way similar to how natural brains do, by learning through example(whether artificial neurons mimic real ones is an interesting distraction from the usefulness of the technology)
+- Many problems have transformed from algorithmic problems to predict problems
+- Machine learning uses probabilistic models to solve problems
+- Because the output of machine learning - prediction - is a key component of intelligence, the prediction accuracy improves by learning, and the high prediction accuracy often enables machines to perform tasks that, until now, were associated with human intelligence, such as object identification
+- In his book On Intelligence, Jeff Hawkins was among the first to argue that prediction is the basis for human intelligence.
+- The essence of his theory is that huma intelligence, which is at the core of creativity and productivity gains, is due to the way our brains use memories to make predictions
+- Hawkins argues that our brains are constantly making predictions regarding what we are about to experience - what we will see, feel, and hear
+- 
