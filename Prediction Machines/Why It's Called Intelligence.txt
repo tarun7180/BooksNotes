@@ -33,4 +33,8 @@
 - In his book On Intelligence, Jeff Hawkins was among the first to argue that prediction is the basis for human intelligence.
 - The essence of his theory is that huma intelligence, which is at the core of creativity and productivity gains, is due to the way our brains use memories to make predictions
 - Hawkins argues that our brains are constantly making predictions regarding what we are about to experience - what we will see, feel, and hear
-- 
+- Irrespective of whether the underlying model is appropriate, his emphasis on prediction as the basis for intelligence is useful for understanding the impact of recent changes in AI
+- In various ways, prediction machines can use language, form abstractions and concepts, solve the kinds of problems now reserved for humans and improve themselves
+-Philospher Ian Hacking, in his book The Taming Of Chance, said that, before the nineteenth century, the rise of government census data applied the newly emerging mathematicsof probability to the social sciences
+- The twentieth century saw the fundamental reordering of our understanding of the physical world, moving from a Netonian deterministic perspective to the uncertainities of quantum mechanics
+- Perhaps the most important advance of 21st century computer science matches these previous advances in social and physical sciences: the recognition that algorithm works best when structured probabilistically, based on data
