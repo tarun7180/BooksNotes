@@ -43,3 +43,10 @@
 - Predictions could have biasis so long as they were better. This give scientists the freedom to experiment and drove rapid improvements that take advantage of the rich data and fast computers that appeard over the last decade
 - Traditional statistical methods require the articulation of hypothesis or atleat of human intuition for model specification.
 - Machien learning has less need to specify in advance what goes into the model and can accomodate the equivalent of much more complex models with many more interactions between variables
+- Recent advances in machine learning are often referred to as advances in artificial intelligence because: 
+  1) systems predicted on this technique learn and improve over time
+  2) these systems produce significantly more-accurate predictions than otehr approaches under certain conditions, and some experts argue that prediction is central to intelligence
+  3) the enhanced prediction accuracy of these systems enable them to perform tasks, such as translation and navigation, that were previously considered the esclusive domain of human intelligence
+- We remain agnostic on the link between prediction and intelligence
+- None of our couclusions relies on taking a position on whether advances in prediction represent advances in intelligence
+- We focus on the consequences of a drop in the cost of prediction, not a drop in the cost of intelligence
