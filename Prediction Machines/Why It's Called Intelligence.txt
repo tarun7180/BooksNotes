@@ -41,3 +41,5 @@
 - Machine learning sciencs had different goals from statistics.
 - Wheras statistics emphasized being correct on average, machien learning did not require that. Instead thegoal was operational effectiveness
 - Predictions could have biasis so long as they were better. This give scientists the freedom to experiment and drove rapid improvements that take advantage of the rich data and fast computers that appeard over the last decade
+- Traditional statistical methods require the articulation of hypothesis or atleat of human intuition for model specification.
+- Machien learning has less need to specify in advance what goes into the model and can accomodate the equivalent of much more complex models with many more interactions between variables
