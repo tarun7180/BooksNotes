@@ -38,3 +38,6 @@
 -Philospher Ian Hacking, in his book The Taming Of Chance, said that, before the nineteenth century, the rise of government census data applied the newly emerging mathematicsof probability to the social sciences
 - The twentieth century saw the fundamental reordering of our understanding of the physical world, moving from a Netonian deterministic perspective to the uncertainities of quantum mechanics
 - Perhaps the most important advance of 21st century computer science matches these previous advances in social and physical sciences: the recognition that algorithm works best when structured probabilistically, based on data
+- Machine learning sciencs had different goals from statistics.
+- Wheras statistics emphasized being correct on average, machien learning did not require that. Instead thegoal was operational effectiveness
+- Predictions could have biasis so long as they were better. This give scientists the freedom to experiment and drove rapid improvements that take advantage of the rich data and fast computers that appeard over the last decade
