@@ -1,1 +1,3 @@
-
+- Prediction machines rely on data
+- More and better data leads to better predictions
+- In economic terms, data is a key complement 
