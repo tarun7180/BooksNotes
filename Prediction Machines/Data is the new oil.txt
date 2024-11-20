@@ -1,3 +1,10 @@
 - Prediction machines rely on data
 - More and better data leads to better predictions
-- In economic terms, data is a key complement 
+- In economic terms, data is a key complement to prediction. It becomes more valuable as prediction becomes cheaper
+- With AI, data plays three roles
+  1) First is input data, which is fed to the algorithm and used to produce a prediction
+  2) Second id training data, which is used to generate the algorithm in the first place. Training data is used to train the AI to become good enought to predict in the wild.
+  3) Finally, there is a feedback data, which is used to improve the algorithm's performance with experience
+- In some situations, considerable overlap exists, such that the same data playa all three roles
+- But data can be costly to acquire. thus, the investment involves a trade-off between the benefit of more data and the cost of acquiring it.
+- To make the right data investment decisions, you must understand how prediction machines use data
