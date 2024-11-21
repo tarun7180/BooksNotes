@@ -9,3 +9,10 @@
 - But data can be costly to acquire. thus, the investment involves a trade-off between the benefit of more data and the cost of acquiring it.
 - To make the right data investment decisions, you must understand how prediction machines use data
 - Before the recent enthusiasm over AI, there was excitement about big data
+- The current generation of AI technology is called "machine learning" for a reason. The machines learns from data
+- Acquiring training data can be challenging.
+- To predict the same group if items, you need information or outcome of interest as well as information on something that will be useful for predicting that outcome in a new context
+- This is particularly challenging when the prediction is about some future event.
+- The prediction machine can only be fed information that is known at the time you want to predict
+- Many commercial AI applications have this atructure: use a combination of input data and outcome measured to create the prediction machine, and then uses input data form a new situation to predict the outcome of that situation
+- If you can obtain data on outcomes, then your prediction machines can learn contnually through feedback
