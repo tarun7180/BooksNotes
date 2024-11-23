@@ -33,3 +33,7 @@
 - Some have argued that more data about unique factors brings disproportionate rewards to the market
 - Increasing data brings disproportinate rewards in the market
 - Thus, from and economic point of view, in such cases, data may have increasing returns to scale
+- Prediction machines utilize three types of data:
+  - Training data for training the AI
+  - input data for predicting
+  - feedback data for improvig the prediction accuracy
