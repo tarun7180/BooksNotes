@@ -16,3 +16,12 @@
 - The prediction machine can only be fed information that is known at the time you want to predict
 - Many commercial AI applications have this atructure: use a combination of input data and outcome measured to create the prediction machine, and then uses input data form a new situation to predict the outcome of that situation
 - If you can obtain data on outcomes, then your prediction machines can learn contnually through feedback
+- Data is often costly to acquire, but prediction machines cannot operate without it. They require data to create, operate and improve
+- More types, more objects, and more frequency mean higher cost but also potentially higher benefit
+- In order to make a good prediction, the machine must have enough individuals in the training data.
+- The number of individuals required depends on 2 factors
+  - First how reliable the "signal" is relative to the "noise"
+  - Second , how accurate the prediction must be to beuseful
+- Data scientist have excellent tools for assessing the amount of data required given the expected reliability of the prediction and the need for accuracy
+- These tools are called "power calculations" and tell you how many units you need to analyze to generate a useful prediction
+- The salient management point is that you must make a trade-off: more accurate predictions require more units to study, and acquiring these additional units can be costly
