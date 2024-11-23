@@ -25,3 +25,11 @@
 - Data scientist have excellent tools for assessing the amount of data required given the expected reliability of the prediction and the need for accuracy
 - These tools are called "power calculations" and tell you how many units you need to analyze to generate a useful prediction
 - The salient management point is that you must make a trade-off: more accurate predictions require more units to study, and acquiring these additional units can be costly
+- More data improves prediciton
+- The benefit of additional information may increase or decrease with the existing amount of data
+- In economist speak, data may have increasing or decreasing returns to scale
+- You get more useful information from the thid observation then the hundredth, and you learn much more from the hundredth pbservation then the millionth
+- As you add observations to your training data, it becomes less and less useful to improving your prediction
+- Some have argued that more data about unique factors brings disproportionate rewards to the market
+- Increasing data brings disproportinate rewards in the market
+- Thus, from and economic point of view, in such cases, data may have increasing returns to scale
