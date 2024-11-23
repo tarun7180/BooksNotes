@@ -37,3 +37,9 @@
   - Training data for training the AI
   - input data for predicting
   - feedback data for improvig the prediction accuracy
+- Data collection is costly; it's an investment
+- The cost of data collection depends on how much data you need and how intrusive the collection process is
+- It is critical to balanc ethe cost of data acquisition with the benefit of enhanced prediction accuracy
+- Determining the best approach requires estimating the ROI of each type of data
+  - How much will it cost to acquire
+  - How valuable will the associated increase in prediction accuracy be
