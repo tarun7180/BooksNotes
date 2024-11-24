@@ -1,1 +1,6 @@
 - Prediction machines are much better than humans at factoring in complex interactions among different indicators
+- Known knowns are when we have rich data, so we kknow we can make good predictions
+- Known unknowns are when there is too little data, so we know that prediction will be difficult
+- Unknown unknowns are thosa events that are not captured by past experience or what is present in the data but are nonethless possible, so prediction is difficult although we may not realize it
+- Unknown knowns, is when an association that apperas to be strong in the past is the rtesult of some unknown or unobserved factor that changes over time and makes predictions we thought we could make unreliable.
+- Prediction machines fail precisely where it is hard to predict based on the well-understood limits in statistics
