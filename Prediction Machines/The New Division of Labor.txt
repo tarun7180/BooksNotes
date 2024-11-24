@@ -6,3 +6,8 @@
 - Prediction machines fail precisely where it is hard to predict based on the well-understood limits in statistics
 - With rich data, macine predcition work well.
 - The machine knows the situation, in the sense that it supplies a good prediciton. And we know the prediction is good. This is the sweet spot for the current generation of machine intelligence. Fraud detection, medical diagnosis, baseball players, and bail decisions all fall under this category
+- Even the best predcition models of today require large amounts of data,meaning know our predictions will be relatively poor in situations where we do not have much data.
+- We know that we don't know: known unknowns
+- In contrast to machines, humans are sometimes extremely good at prediction with little data
+- While computer scientist are workinh to reduce machines data needs, developing techniques such as "one shot learning" in which machines learn to predict an object well after seeing it just once, current prediction machines are not yet adequate
+- Because these are knwn unknowns and because humans are still better at decisions in the face of known unknowns, the people managing the machine know that such situation may arise and thus they can program the machine to call a human for help
