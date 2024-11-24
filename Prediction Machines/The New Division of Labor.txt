@@ -11,3 +11,7 @@
 - In contrast to machines, humans are sometimes extremely good at prediction with little data
 - While computer scientist are workinh to reduce machines data needs, developing techniques such as "one shot learning" in which machines learn to predict an object well after seeing it just once, current prediction machines are not yet adequate
 - Because these are knwn unknowns and because humans are still better at decisions in the face of known unknowns, the people managing the machine know that such situation may arise and thus they can program the machine to call a human for help
+- In order to predict, someone needs to tell a machine what is worth predicting.
+- If something has never happened before, a machine cannot predict it
+- Humans are also relatively bad at predicting unknown unknowns.
+- Faced with both unknonwn unknowns, both humans and machines fail
