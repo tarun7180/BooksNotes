@@ -4,3 +4,5 @@
 - Unknown unknowns are thosa events that are not captured by past experience or what is present in the data but are nonethless possible, so prediction is difficult although we may not realize it
 - Unknown knowns, is when an association that apperas to be strong in the past is the rtesult of some unknown or unobserved factor that changes over time and makes predictions we thought we could make unreliable.
 - Prediction machines fail precisely where it is hard to predict based on the well-understood limits in statistics
+- With rich data, macine predcition work well.
+- The machine knows the situation, in the sense that it supplies a good prediciton. And we know the prediction is good. This is the sweet spot for the current generation of machine intelligence. Fraud detection, medical diagnosis, baseball players, and bail decisions all fall under this category
