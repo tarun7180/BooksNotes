@@ -43,3 +43,9 @@
 - Determining the best approach requires estimating the ROI of each type of data
   - How much will it cost to acquire
   - How valuable will the associated increase in prediction accuracy be
+- Statistical and economic reasons shape whether having more data generate more value.
+- From a statistical perspective, data has diminishing returns
+- Each additional unit of data improves your prediction less than the prior data; the tenth observation improves prediction by more than one thousandth
+- In terms of economics, the relationship is ambigous
+- Adding more data to a large existing stock of data may be greate than adding it to a small stock - for example, if the additional data allows the perormance of the prediction machine ot cross a threshold for unusable to usable, or from below a regulatory performance threshold to above, or from worse than a competitor to better
+- Thus, organizations need to undestand the relationship between adding more data, enhancing prediction accuracy, and increasing value creation
