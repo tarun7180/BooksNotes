@@ -21,3 +21,5 @@
 - In contrast, with unknown knowns, prediction machines appear to provide a very precise answer, but that answer can be very wrong
 - While data informs decision, data can aslo come from decisions
 - If the machine does not understand the decision process that generated the data, its prediction can fail
+- For a human-prediction machine pair to generate a better prediction requires an understanding of the limits of the human and the machine
+- For humans to makke machine prediction better, and vice-versa, it is important to understand the weakness of both humans and machines and combine them in a way that overcomes these flaws
