@@ -23,3 +23,6 @@
 - If the machine does not understand the decision process that generated the data, its prediction can fail
 - For a human-prediction machine pair to generate a better prediction requires an understanding of the limits of the human and the machine
 - For humans to makke machine prediction better, and vice-versa, it is important to understand the weakness of both humans and machines and combine them in a way that overcomes these flaws
+- One major benefit of prediction machines is that they can scale in a way that humans cannot
+- One downside is that they struggle to make predictions in unusual cases for which there isn't much historical data
+- Combined, this means that many human- machine collaborations will take the form of "prediction by exception"
