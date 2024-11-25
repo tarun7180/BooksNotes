@@ -15,3 +15,9 @@
 - If something has never happened before, a machine cannot predict it
 - Humans are also relatively bad at predicting unknown unknowns.
 - Faced with both unknonwn unknowns, both humans and machines fail
+- Perhaps the biggest weakness of prediction machines is that they sometimes provide wrong answers that they are confident are right
+- The prediction comes with a confidence range that reveals its imprecision
+- In the case of unknown unknowns, humans don't think they have any answers
+- In contrast, with unknown knowns, prediction machines appear to provide a very precise answer, but that answer can be very wrong
+- While data informs decision, data can aslo come from decisions
+- If the machine does not understand the decision process that generated the data, its prediction can fail
