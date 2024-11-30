@@ -26,3 +26,7 @@
 - One major benefit of prediction machines is that they can scale in a way that humans cannot
 - One downside is that they struggle to make predictions in unusual cases for which there isn't much historical data
 - Combined, this means that many human- machine collaborations will take the form of "prediction by exception"
+- Humans, including professional experts, make poor predictions under certain conditions.
+- Humnas often overweight salient information and do not account for statistical properties
+- Many scientific studies document these shortcomings across a wide variety of professions
+- The phenomenon was illustrated in the feature film Moneyball
