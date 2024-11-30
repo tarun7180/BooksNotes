@@ -35,3 +35,9 @@
 - Prediction machines are better than human at factoring in complex interactions among different indicators, especially in settings with rich data
 - As the number of dimensions for such interactions grows, the abikity of humans to form accurate predictions diminishes, especially relative to machines. However, humans are often better than machines when understanding the data generation process confers a prediction advantage, especially in settings with thin data
 - We descibe a taxonomy of prediction settings that is useful for anticipating the appropriate division of labor
+- Prediction machines scale
+- The unit cost per prediction machine falls as the frequency increases
+- Human prediction does not scale the same way
+- However, humans have cognitive models of how th e world works and thus can make predictions based on small amounts of data.
+- Thus, we anticipate a rise in human predcition by exception whereby machines generate most predictions because the are predicated on routine, regular data, but when rare events occur the machine recognizes that it is not able to produce a prediction with confidence, and so calls for human assistance.
+- The human provides prediction by exception
