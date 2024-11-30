@@ -30,3 +30,8 @@
 - Humnas often overweight salient information and do not account for statistical properties
 - Many scientific studies document these shortcomings across a wide variety of professions
 - The phenomenon was illustrated in the feature film Moneyball
+- Machines and humand have distinct strengths and weaknesses in the context of predcition
+- As predcition machine improve, businesses must adjust their division of labor between humans and machines in response
+- Prediction machines are better than human at factoring in complex interactions among different indicators, especially in settings with rich data
+- As the number of dimensions for such interactions grows, the abikity of humans to form accurate predictions diminishes, especially relative to machines. However, humans are often better than machines when understanding the data generation process confers a prediction advantage, especially in settings with thin data
+- We descibe a taxonomy of prediction settings that is useful for anticipating the appropriate division of labor
