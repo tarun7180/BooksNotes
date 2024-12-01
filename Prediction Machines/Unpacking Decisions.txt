@@ -1,1 +1,4 @@
-
+- But a prediction is not a decision
+- Making a decision requires applying judgement to a predcition and then acting
+- Before recent advances in machine intelligence, this distinction was only of academaic interest because humans always performed prediction and judgement together
+- Now, advances in machine predcition mean that we have to examine the anatomy of a decision
