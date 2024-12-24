@@ -14,3 +14,6 @@
 - But a key point is that, while prediction is a key component of any decision, it is the only component
 - The other elements of a decision - judgement, data, and action - remain, for now, firmly in the realm of humans
 - They are complements to prediction, meaning they increase in value as prediction becomes cheap
+- Judgement is the process of determining the reward to a particular action in a particular environment.
+- It is about working out the objective you are actually pursuing
+- Judgement involves determining what we call the "reward function", the relative rewards and penalties asscoiated with taking particular actions that produce particular outcomes
