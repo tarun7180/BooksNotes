@@ -2,3 +2,15 @@
 - Making a decision requires applying judgement to a predcition and then acting
 - Before recent advances in machine intelligence, this distinction was only of academaic interest because humans always performed prediction and judgement together
 - Now, advances in machine predcition mean that we have to examine the anatomy of a decision
+- Prediction machines will have their most immediate imppact at the decision level.
+- But decisions have six other key elements.
+- When someone(or something) makes a decision, they take input data form the world that enables a prediction
+- That predictionis possible because training occurred about relationships between different types of data and which data is most closely associated with a situation.
+- Combining the prediction with judgement on what matters, the decision maker can choose an action. The action leads to an outcome
+- The outcome is a consequence of the decision. It is needed to provide a complete picture. The outcome may also provide feedback to help improve the next prediction
+- By breaking up a decision into elements, we can think clearly abut which parts of human activities will diminish in value and which will increase as a result of enhanced machine prediction
+- Most clearly, for prediction itself, a prediction machine is generally a better substitute for human prediction
+- As a machine prediction increasingly replaces the prediction that humans make, the value of human prediction will decline
+- But a key point is that, while prediction is a key component of any decision, it is the only component
+- The other elements of a decision - judgement, data, and action - remain, for now, firmly in the realm of humans
+- They are complements to prediction, meaning they increase in value as prediction becomes cheap
