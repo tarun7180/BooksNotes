@@ -20,3 +20,10 @@
 - Prediction machines are so valuable because 1) they can often produce better, faster, and cheaper pridictions that humans can; 2) prediction is a key ingredient in decisionmaking under uncertainity;3) deciaion-making is ubiquitious throughout our economic and social lives.
 - A prediction is not a decision - it is only a component of a decision.
 - The other components are judgement, action, outcome, and three types of data(input, output and feedback)
+- By breaking down a decision into its components, we can understand the impact of prediction machines on the value of humans and other assets
+- The value of substitutes to prediction machines, namely human prediction, will decline.
+- The value of components, such as the human skills associated with data collection, judgement, and actions, will become valuable.
+- In the case of London cabbies who each invested three years to learn " The knowledge" - how to predict the fastest route from one location to another at a aprticular time of day - none became worse at their job because of prediction machines.
+- Rather, many other drivers became a lot better at choocing the best route by using prediction machines.
+- The Cabbies' prediction skills were no longer a scarce commodity
+- Drivers who weren't cabbies had driving skills and human sensors (eyes and ears) that were effectively enhanced by prediction machines, enabling them to compete
