@@ -17,3 +17,6 @@
 - Judgement is the process of determining the reward to a particular action in a particular environment.
 - It is about working out the objective you are actually pursuing
 - Judgement involves determining what we call the "reward function", the relative rewards and penalties asscoiated with taking particular actions that produce particular outcomes
+- Prediction machines are so valuable because 1) they can often produce better, faster, and cheaper pridictions that humans can; 2) prediction is a key ingredient in decisionmaking under uncertainity;3) deciaion-making is ubiquitious throughout our economic and social lives.
+- A prediction is not a decision - it is only a component of a decision.
+- The other components are judgement, action, outcome, and three types of data(input, output and feedback)
