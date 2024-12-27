@@ -27,3 +27,7 @@
 - Rather, many other drivers became a lot better at choocing the best route by using prediction machines.
 - The Cabbies' prediction skills were no longer a scarce commodity
 - Drivers who weren't cabbies had driving skills and human sensors (eyes and ears) that were effectively enhanced by prediction machines, enabling them to compete
+- Judgement involves determining the relative payof associated with each possible outcome of a decision, including those associated with mistakes.
+- Judgement requires specifying the objective you are actually pursuing and is a necessary step in decision-making
+- As a prediction machine make prediction increasingly better, faster, and cheaper, the value of human judgement will increase because we will need more of it.
+- We may be more willing to exert effort and apply judgement to decisions where we previously had chosen not to decide ( by accepting the defaut)
