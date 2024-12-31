@@ -12,3 +12,5 @@
 - We decide to authorize a transaction because we think it is legitimate, but we could be wrong
 - Under conditions of uncertainity, we need to determine the payoff for acting on wrong decisions, not just right ones.
 - So, uncertainity increases the cost of judging the payoffs for a given decision
+- If there are a manageable nunber of action-situation combinations associated with a decision, then we can transfer the judgement from ourselves to the prediction machine (this is "reward function engineering") so that the machine can make the decision itself once it generates the prediction. This enables automating the decision
+- Often, however , there are too many action-situation combinations, such that it is too costly to code up in advance all the payoffs associated with each combination, especially the very rare ones. In these cases, it is more efficient for a human to apply judgement after the prediction machine predicts
