@@ -10,3 +10,7 @@
 - There are limits to the ability of machines to predict human judgement. The limits relate to lack of data.
 - There is some data that have machines do not, such as individual preferences
 - Such data has value, and companies currently pay to access it through discounts on using loyalty cards and free online services like Google and Facebook
+- Machines are bad at prediction fro rare events.
+- Managers make decision on mergers, innovation, and partnerships without data on similar past events for their firms
+- Humans use analogies and models to make decisions in such unusual situations
+- Machines cannot predict judgement when a situation has not occurred many times in the past
