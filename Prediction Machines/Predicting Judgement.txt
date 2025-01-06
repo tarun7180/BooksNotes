@@ -1,3 +1,8 @@
 - A fundamental question, at least for humans, is whether AI can turn its predictive powers on human judgement and , in the process, circumvent the need for humans altogether
 - Prediction relies on data. That means humans have 2 advantages over machines. We know some things that the machines don't (yet) and, more importantly, we are better at deciding what to do when there isn't much data
 - Humans have 3 types of data that machine don't. First human senses are powerful. Second, humans are the ultimate arbiters of our own preferences. Third, privacy concerns restrict the data available to machines.
+- Prediction machines may also lack data because some events are rare.
+- If a machine cannot observe enough human decisions, it cannot predict the judgement underlying those decisions
+- AI cannot predict what a human would do if that human has never faced a similar situation
+- In this way, AI cannot predict the strategic direction of a company facing a new technology, such as the internet, bioengineering, or even AI itself.
+- Humans are able to make analogies or recognize useful similarities in different contexts
