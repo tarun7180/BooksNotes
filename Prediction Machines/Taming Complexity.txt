@@ -1,1 +1,3 @@
-
+- Better prediction allows you to predict more things more often, reducing uncertainity
+- Each new prediction also has an indirect effect: it makes choices feasible that you would not have considered before
+- Translation became a prediction problem when researchers recognized that translation could happen sentence by sentence or even paragraph by paragraph
