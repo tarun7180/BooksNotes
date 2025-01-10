@@ -9,3 +9,9 @@
 - That solution is not optimal, but it's good enough given the information available.
 - The mail robot and the airport lounge are both inventions designed in response to satisficing
 - Prediction machines will reduce the need to satisfice and thus reduce the returns to investing in solutions like mail robot systems and airport lounges
+- We are used to satisficing in our businesses and social live that it will take practice to imagine the vast array of transformations possible as a result of prediction machines that can handle more "ifs" and "thens" and, thus, more complex decisions in more complex environments
+- It's not intuitive for most people to think of airport lounges as a solution to poor predcition and that they will be less valuable in an era of powerful prediction machines
+- Another example is the use if biopsies, which largely exist in response to weaknesses in prediction from medical images
+- As the confidence in prediction machines goes up, the impact from medical imaging AIs may be much greater on the jobs associated with conduacting biopsies because, like airport lounges, this costly and invasive procedure was invented in response to poor prediction
+- Airport lounges and biopsies are both risk management solutions
+- Prediction machines will provide new and better methods for managing risk
