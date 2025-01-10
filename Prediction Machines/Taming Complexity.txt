@@ -4,3 +4,8 @@
 - Enhanced prediction enables decision makers, whether human or machine, to handle more "ifs" and more "thens". That leads to better outcomes. For example, in the case of navigation, illustrated in this chapter with the mail robot, prediction machines liberate autonomous vehicles from their previous limitation of operating only in controlled environments. These settings are charaterized by their limited number of "ifs" (or states)
 - Prediction machines allow autonomous vehicles to operate in uncontrolled environments, like on a city street, because rather than having to code all the potential "ifs" in advance, the machine can instead learn to predict what a human controller would do in any particular situation
 - Similarly, the example of airport lounges illustrates how enhanced prediction facilites more "thens" (e.g. "then leave at time X or Y or Z", dependin on the prediction of how long it will take to get to the airport at a particular time on a particular day), rather than always leaving early "just in case" and then spending extra time waiting in the airport lounge
+- In the absence of good prediction, we do a lot of "satisficing", making decisions that are "good enough" given the information available.
+- Always leaving early for the airport anf often waiting once you arrive because you are early is an example of satisficing
+- That solution is not optimal, but it's good enough given the information available.
+- The mail robot and the airport lounge are both inventions designed in response to satisficing
+- Prediction machines will reduce the need to satisfice and thus reduce the returns to investing in solutions like mail robot systems and airport lounges
