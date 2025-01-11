@@ -1,1 +1,8 @@
-
+- Carmakesrs in the Unites States have reached an agreement with the Department of Transportation to make automatic emergency braking standard on vehicles by 2023
+- Often, the distinction between AI and automation is muddy
+- Automation arises when a machine undertakes and entire task, not just prediction
+- AI, in its current incarnation, involves a machine performing one element: prediction
+- Each of other elements represents a complement to prediction, something that becomes more valuable as predictions gets cheaper
+- Whether full automation makes sense depends on the relative returns to machines also doing the other elements.
+- Humans and machines can accumulate data, whether for inout, training, or feedback, depending on the data type.
+- A human must ultimately make a judgement, but the human can codify judgement and program it into a machine in advance of a prediction
