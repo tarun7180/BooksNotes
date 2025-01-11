@@ -6,3 +6,8 @@
 - Whether full automation makes sense depends on the relative returns to machines also doing the other elements.
 - Humans and machines can accumulate data, whether for inout, training, or feedback, depending on the data type.
 - A human must ultimately make a judgement, but the human can codify judgement and program it into a machine in advance of a prediction
+- Mininng is the perfect opportunity for full automation precisely becuase it has already removed humans from so many activities. These days, humans perform directed but key fucntions.
+- Before the recent advances in AI, everything except prediction could already be automated
+- Prediction machines represent the last step in removing humans from many tasks involved.
+- Prevously, a human scanned the sorrounding environment and told the equipment precisely what to do.
+- Now, AI that takes information from sensors learns how to predict obstacles for clear paths
