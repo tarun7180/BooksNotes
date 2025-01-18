@@ -16,3 +16,4 @@
 - If a machine can be coded for judgement and handle the consequent action relatively easily, then it makes sense to leave the entire task in the machines's hands
 - Automation occurs when the return to machine handling all functions is greater than the returns to including humans in the process
 - Automation can also arise when the costs of communication are high
+- What distinguishes the "within factory" environment from the "open road' is the possibility of what economista call "externalities' =- costs that are felt by others, rather than the key decision makers.
