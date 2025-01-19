@@ -17,3 +17,8 @@
 - Automation occurs when the return to machine handling all functions is greater than the returns to including humans in the process
 - Automation can also arise when the costs of communication are high
 - What distinguishes the "within factory" environment from the "open road' is the possibility of what economista call "externalities' =- costs that are felt by others, rather than the key decision makers.
+- The introduction of AI to a task does not necessarily imply full automation of that task. Prediction is only one component
+- In many cases, humans are still required to apply judgement and take an action.
+- Howerver, sometimes judgeent can be hard coded or, if enough examples are available, machines can learn to predict judgement
+- In addition, machines may perform the action.
+- When machines perform all elements of the task, then the task is fully automated and humans are completely removed from the loop
