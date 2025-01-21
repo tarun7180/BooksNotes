@@ -22,3 +22,5 @@
 - Howerver, sometimes judgeent can be hard coded or, if enough examples are available, machines can learn to predict judgement
 - In addition, machines may perform the action.
 - When machines perform all elements of the task, then the task is fully automated and humans are completely removed from the loop
+- The tasks most likely to be fully automated first are the ones for which full automation delivers the highest resturns
+- These include tasks where: (1) the other elements are already automated except for prediction (e.g. mining); (2) the returns to speed of action in response to prediction are high (e.g., driverless cars); and (3) the returns to reduced waiting time for predictions are high(e.g., space exploration)
