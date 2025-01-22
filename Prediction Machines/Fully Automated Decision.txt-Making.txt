@@ -24,3 +24,9 @@
 - When machines perform all elements of the task, then the task is fully automated and humans are completely removed from the loop
 - The tasks most likely to be fully automated first are the ones for which full automation delivers the highest resturns
 - These include tasks where: (1) the other elements are already automated except for prediction (e.g. mining); (2) the returns to speed of action in response to prediction are high (e.g., driverless cars); and (3) the returns to reduced waiting time for predictions are high(e.g., space exploration)
+- An important distinction between autonomous vehicles operating on a city street versus those in mine site is that the former generates significant externalities while the later does not
+- Autonomous vehicles operating on a city street may cause an accident that incurs costs borne by individuals external to the decision-maker.
+- In contrast, accidents caused by autonomous vehicles operating on a mine site only incur costs affecting assets or people associated with the mine
+- Government regulates activities that generate externailities. Thus, regulation is a potential barrier to full automation for applications that generate significant externalities
+- The assignment of liability is a common tool used by economists to address this problem by internalizing externalities
+- We anticipate a significant wave of policy development concerning the assignment of liability driven by an increasing demand for many new areas of automation
