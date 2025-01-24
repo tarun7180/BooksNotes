@@ -1,1 +1,5 @@
-
+- Stakes are the expected losses that arise when there is an error in prediction
+- Predictions fail be degrees and in different directions
+- We could conclude that when the stakes are higher, AI has to give better prediction so that errors don't appear
+- One implication is that when the stakes are high, utilizing AI prediction involves complementary investments in measure that manage the additional risks that are created
+- That management will involve either some form of insurance - countering potentially adverse downside outcomes - or some form of protection, reducing the likelihood of those outcomes and containing the adverse consequences
