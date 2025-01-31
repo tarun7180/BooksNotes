@@ -6,3 +6,7 @@
 - In many cases, by adopting AI predictio, the hope is ypu can introduce products
 - Having greater product variety means you can find consumers who are most likely to find personal value from what you are offering
 - Indeed taken to the extreme, AI prediction has offered the hope for complete product personalization: that is, you can supply as many products as there are people
+- Loss functions are not just a measure of how accurate a prediction is relative to the stakes but also the consequences of following that prediction with the action you take
+- The relevant stakes to use come from judgement, which, as we have already noted, is determined wholly by humans
+- While judgement tells you what the value of different possibilites is overall, stakes focus on one particular aspect of that judgment - the relative consequences of errors.Thus, in deploying AI, you want judgment to come from the right person
+- While we have framed the choice as to whether to adopt AI prediction or not in terms of the level of stakes, the choice about whether to fully automate a decision or not on hte basis of AI prediction relies on how measurable stakes can be
