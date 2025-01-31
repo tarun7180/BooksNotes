@@ -10,3 +10,7 @@
 - The relevant stakes to use come from judgement, which, as we have already noted, is determined wholly by humans
 - While judgement tells you what the value of different possibilites is overall, stakes focus on one particular aspect of that judgment - the relative consequences of errors.Thus, in deploying AI, you want judgment to come from the right person
 - While we have framed the choice as to whether to adopt AI prediction or not in terms of the level of stakes, the choice about whether to fully automate a decision or not on hte basis of AI prediction relies on how measurable stakes can be
+- No prediction - AI or otherwise-is perfect. Sometimes there are errors.
+- Furtehermore, there are different types of errors. For example, a simple binary predictions has two types of errors" false positives and false negatives.
+- Different error types may incur different costs, depending on the decision they inform.
+- So, when determining hoe to best use predictions is decision-making, businesses must consider the costs of different types of errors
