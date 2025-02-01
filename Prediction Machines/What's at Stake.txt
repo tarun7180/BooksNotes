@@ -14,3 +14,7 @@
 - Furtehermore, there are different types of errors. For example, a simple binary predictions has two types of errors" false positives and false negatives.
 - Different error types may incur different costs, depending on the decision they inform.
 - So, when determining hoe to best use predictions is decision-making, businesses must consider the costs of different types of errors
+- The costs of errors determine the stakes of the prediction.
+- In low stake situations, if you follow an incorrect prediction, the costs are relatively low( for instance, recommending the wrong product to an Amazon customer)
+- Other decisions invlove high stakes( for instance, flagging Facebook contents as safe when it is not)
+- The returns to automating low-stake decisions are usually higher than for high-stake decisions, where the benefits to human oversight often outweigh the costs
