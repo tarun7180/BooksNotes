@@ -18,3 +18,5 @@
 - In low stake situations, if you follow an incorrect prediction, the costs are relatively low( for instance, recommending the wrong product to an Amazon customer)
 - Other decisions invlove high stakes( for instance, flagging Facebook contents as safe when it is not)
 - The returns to automating low-stake decisions are usually higher than for high-stake decisions, where the benefits to human oversight often outweigh the costs
+- Whether a decision is low or high stakes depends on judgment-humans determine the cost of errors for every decision
+- Judgement is even more important when the predictions being relied on are more imperfect
