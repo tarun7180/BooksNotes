@@ -1,1 +1,9 @@
-
+- The actual implementation of AI is through the development of tools
+- The unit of AI tool design is not "the job" or "the occupation" or "teh strategy", but rather "the task".
+- Tasks are collections of decisions
+- Decisions are based on prediction and judgement and informed by data.The decisions within a taskk often shafe thease elements in common. Where they differ is in the action that follows
+- Sometimes we can automate all the decisions within a taskk
+- Or we can now automate the last remaining decision that has not yet been automated becuase of enhanced prediction
+- The rise of prediciton machines motivates thinking about how to redesign and automate entire processes, or what we term here "workkflows", effectively removing humans from such tasks altogether.
+- But for better and cheaper prediction alone ot lead to pure automation, employing prediction machines must also increase the returns to using machines in other aspects of a task
+- Otherwise, you will want to employ a prediction machine to workk with human decision makers
