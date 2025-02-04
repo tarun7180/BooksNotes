@@ -8,3 +8,6 @@
 - But for better and cheaper prediction alone ot lead to pure automation, employing prediction machines must also increase the returns to using machines in other aspects of a task
 - Otherwise, you will want to employ a prediction machine to workk with human decision makers
 - AI tools can change workflows in 2 ways. First, they can render tasks obsolete and therefore remove them from workkflows. Second, they can add new tasks. This may be different for every business and workflow
+- AI tools are point solutions
+- Each generates a specific prediction, and most are designe to perform a specific task
+- Many AI startups are predicated on building a single AI tool
