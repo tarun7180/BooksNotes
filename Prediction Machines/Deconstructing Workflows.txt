@@ -11,3 +11,8 @@
 - AI tools are point solutions
 - Each generates a specific prediction, and most are designe to perform a specific task
 - Many AI startups are predicated on building a single AI tool
+- Large corporations are comprised of workflows that turns inputs into outputs
+- Workkflows are made up of tasks
+- In decising how to implement AI, companies will break their workkflows down into tasks, rank-order the AIs in terms of ROI, and then start from the top of the list and begin working downward
+- Sometimes a ccompany can simply drop an AI tool into itd workflow and realize an immediate benefit due to increaing the productivity of that taskk
+- Deriving a real benefit from implementing an AI toll requires rethinking, or "reengineering" the entire workflow. As a result, similar to the personal computer revolution, it will take time to see productivity gain from AI in many mainstream businesses
