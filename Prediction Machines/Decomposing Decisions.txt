@@ -1,1 +1,5 @@
-
+- It is useful to seperate the parts of a decision into each of its elements: prediction, input, judgement, training, action, outcome, and feedback
+- In the process, we developed an "AI canvas" to help decompose tasks in the order to understand the potential role of a prediction machine
+- The canvas is an aid for contemplating, building, and assessing AI tools
+- It provides discipline in identifying each component of a taskk's decision
+- It forces clarity in describing each component
