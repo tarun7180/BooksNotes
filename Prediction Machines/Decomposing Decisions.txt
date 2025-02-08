@@ -5,3 +5,6 @@
 - It forces clarity in describing each component
 - Tasks need to be decomposed in order to see where prediction machines can be inserted. This allows you to estimate the benefit of the enhanced prediction and the cost of generating that prediction
 - Once you have generated reasonable estimates, rank-order the AIs from highest to lowest ROI by staring at the top and working your way down, implementing AI tools as long as the expected ROI makes sense
+- The AI canvas is an aid to help with the decomposition process
+- Fill out the AI canvas for every decision or task. This introduces discipline and structure into the process.
+- It forces you to articulate precisely what you need to predict, the judgement required to assess the relative value of different actions and outcoes, the action possibilities, and the outcome possibilities
