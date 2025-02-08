@@ -3,3 +3,5 @@
 - The canvas is an aid for contemplating, building, and assessing AI tools
 - It provides discipline in identifying each component of a taskk's decision
 - It forces clarity in describing each component
+- Tasks need to be decomposed in order to see where prediction machines can be inserted. This allows you to estimate the benefit of the enhanced prediction and the cost of generating that prediction
+- Once you have generated reasonable estimates, rank-order the AIs from highest to lowest ROI by staring at the top and working your way down, implementing AI tools as long as the expected ROI makes sense
