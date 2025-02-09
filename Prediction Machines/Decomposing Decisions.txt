@@ -7,4 +7,11 @@
 - Once you have generated reasonable estimates, rank-order the AIs from highest to lowest ROI by staring at the top and working your way down, implementing AI tools as long as the expected ROI makes sense
 - The AI canvas is an aid to help with the decomposition process
 - Fill out the AI canvas for every decision or task. This introduces discipline and structure into the process.
-- It forces you to articulate precisely what you need to predict, the judgement required to assess the relative value of different actions and outcoes, the action possibilities, and the outcome possibilities
+- It forces you to articulate precisely what you need to predict, the judgement required to assess the relative value of different actions and outcomes, the action possibilities, and the outcome possibilities
+- At the centre of the AI canvas is prediction
+- You need to identify the core prediction at the heart of the task, and this can require AI insight
+- The effort to answer this question often initiates an existential discussion among the leadership team:" What is our real objective, anyhow?" Prediction requires a specificity not often found in mission statements.
+- For a business school, for example, it is easy to say that it is focussed on recruiting the "best" students, but in order to specify the prediction, we need to specify what "best" means-highest salary offer upon graduation? Most likely to assume a CEO role within 5 years? Most diverse? Most likely to donate to the school after graduation?
+- Even seemingly straightforward objectives, like profit maximization, are not as simple as they first appear.
+- Should we predict the action to take that will maximize profit this week, this quarter, this year, or this decade?
+- Companies often find themselves having to go back to basics to realign on their objectives and sharpen their mission statement as the first step in their work on their AI strategy
