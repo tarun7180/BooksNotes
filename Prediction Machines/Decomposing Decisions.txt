@@ -15,3 +15,5 @@
 - Even seemingly straightforward objectives, like profit maximization, are not as simple as they first appear.
 - Should we predict the action to take that will maximize profit this week, this quarter, this year, or this decade?
 - Companies often find themselves having to go back to basics to realign on their objectives and sharpen their mission statement as the first step in their work on their AI strategy
+- Our process for implementing AI tools will determine which outcome you should emphasize
+- It involves evaluating entire workflows, whether they are within or across jobs(or departmental or organizational boundaries), and then breaking down the workflow into constituent tasks and seeing whether you can fruitfully employ a prediction machine in those tasks. Then you must reconstitute tasks into jobs
