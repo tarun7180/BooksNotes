@@ -3,3 +3,6 @@
 - In some cases, the goal is to fully automate every task associated with a job
 - AI tolls are unlikely to be a catalyst for this on their own because workflows amenable to full automation have a series of tasks involved that cannot be easily avoided, even for tasks that seem initially to be both skilled and unimportant
 - Prediction machines will reduce uncertainity, but they won't always eliminate it
+- Some jobs may continue to exist but require new skills.
+- Automating a particular task can empasize other tasks that are important to a job but were previously underappreciated
+- Automation that eliminates a human from a task does not necessarily eliminate them from a job
