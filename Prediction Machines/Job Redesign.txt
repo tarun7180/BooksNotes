@@ -1,1 +1,2 @@
-
+- Our process for implementing AI tools will determine which outcome you should emphasize
+- It involves evaluating entire workflows, whether are within or across jobs (or departmental or organizational boundaries), and then breaking down the workflow into constituent tasks and seeing whether you can fruitfully employ a prediction machine in those tasks. Then you must reconstitute tasks into jobs
