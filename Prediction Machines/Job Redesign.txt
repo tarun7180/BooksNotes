@@ -2,3 +2,4 @@
 - It involves evaluating entire workflows, whether are within or across jobs (or departmental or organizational boundaries), and then breaking down the workflow into constituent tasks and seeing whether you can fruitfully employ a prediction machine in those tasks. Then you must reconstitute tasks into jobs
 - In some cases, the goal is to fully automate every task associated with a job
 - AI tolls are unlikely to be a catalyst for this on their own because workflows amenable to full automation have a series of tasks involved that cannot be easily avoided, even for tasks that seem initially to be both skilled and unimportant
+- Prediction machines will reduce uncertainity, but they won't always eliminate it
