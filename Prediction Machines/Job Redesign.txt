@@ -14,3 +14,6 @@
 2) AI tools may contract jobs, as in fulfillment centres
 3) AI tools may lead to the reconstitution of the jobs, with some tasks added and others taken away, as with radiologists
 4) AI tools may shift the emphasis on the specific skills required for a particular job, as with school bus drivers
+- AI tools may shift the relative returns to certain skills and, thus, change the types of people who are best suited to particular jobs.
+- In the case of bookkeepers, the arrival of the spreadsheet diminished the returns to being able to perform many calculations quickly on a calculator
+- At the same time, it increased the returns to being good at asking the right questions in order to fully take advantage of the technology's ability to efficiently run scenario analyses
