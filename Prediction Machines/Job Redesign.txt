@@ -9,3 +9,8 @@
 - A job is acollectio of tasks
 - When breaking down a workflow and employing AI tools, some tasks previously performed by humans may be automated, the ordering and emphasis of remaining tasks may change, and new tasks may be created.
 - Thus, the collection of tasks that make up a job can change
+- The implementation of AI tools generates four implications for jobs:
+1) AI tools may augment jobs, as in the example of spreadsheets and bookkeepers
+2) AI tools may contract jobs, as in fulfillment centres
+3) AI tools may lead to the reconstitution of the jobs, with some tasks added and others taken away, as with radiologists
+4) AI tools may shift the emphasis on the specific skills required for a particular job, as with school bus drivers
