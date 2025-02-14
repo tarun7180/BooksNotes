@@ -6,3 +6,6 @@
 - Some jobs may continue to exist but require new skills.
 - Automating a particular task can empasize other tasks that are important to a job but were previously underappreciated
 - Automation that eliminates a human from a task does not necessarily eliminate them from a job
+- A job is acollectio of tasks
+- When breaking down a workflow and employing AI tools, some tasks previously performed by humans may be automated, the ordering and emphasis of remaining tasks may change, and new tasks may be created.
+- Thus, the collection of tasks that make up a job can change
