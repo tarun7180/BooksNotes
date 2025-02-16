@@ -4,4 +4,9 @@
 - At the same time, we have learned, what to look for, how to be ahead of the curve, and when a new technology is likely to transition from something intersting to something transformative
 - While ROI calculations can influence operational changes, strategic decisions pose dillimas and force leaders to grapple with uncertainity
 - Adopting AI is one part of the organization ,ight require changes in another part
-- For interorganizational effects, adoption and other decisions require the authority of someone who oversees the entire bisiness, namely, the CEO
+- For interorganizational effects, adoption and other decisions require the authority of someone who oversees the entire bisuness, namely, the CEO
+- Physial stores cannot forecast individual customer demand, but they can forecast the likely demand from a group of customers
+- Moving to a shipping-then-shopping model based on individual homes requires more information about individual cutomer demand, which can overcome the competitive advantange physical stores have
+- Companies require a prediction machine that can reduce uncertainity enough to change the balance in the strategic dillema
+- How do you reduce the time to deliver products to consumers? Anticipate what they are likely to order nad have it in stock at a distribution centre nearby
+- But such inventory management is itself costly
