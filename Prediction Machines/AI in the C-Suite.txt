@@ -10,3 +10,8 @@
 - Companies require a prediction machine that can reduce uncertainity enough to change the balance in the strategic dillema
 - How do you reduce the time to deliver products to consumers? Anticipate what they are likely to order nad have it in stock at a distribution centre nearby
 - But such inventory management is itself costly
+- C-suite leadership must not fully delegate AI strategy to their IT department becasue AI tools may go beyond enhancing the productivity of tasks performed in the service of executing against the organization's strategy and instead lead to changing the strategy itself.
+- AI can lead to strategic change if 3 factors are present-
+1) there is acore trade-off in the business model
+2) the trade-off is influenced by uncertainity 
+3) an AI tool that reduces uncertainity tips the scales of the trade-off so that the optimal strategy changes from one side of the trade to the other
