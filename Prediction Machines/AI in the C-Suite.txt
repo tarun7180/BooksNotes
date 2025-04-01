@@ -15,3 +15,10 @@
 1) there is acore trade-off in the business model
 2) the trade-off is influenced by uncertainity 
 3) an AI tool that reduces uncertainity tips the scales of the trade-off so that the optimal strategy changes from one side of the trade to the other
+- Another reason C-suite leadership is required for AI strategy is that the implementation of AI tools in one part of the business may aslo effect the other parts
+- In the Amazon thought experiment, a side effect transitioning to ship-tehn-shop model was integration into the returned items collection business, perhaps with the fleet of trucks that did weekly pickups throughout the nighbourhood. In other words, powerful AI tools may result in significant redesign of workflows and the boundary of the firm
+- Prediction machines will increase the value of complements, including judgement, actions, and data
+- The increasing value judgement may lead to changes in organizational hierarchy - there may be higher returns to putting different roles or different people in positions of power.
+- In addition, prediction machines enable managers to move beyond optimizing individual components to optimizing individual components to optimizing higher-level goals and thus make decisions closer to the optimizing higher-level goals and thus make decisions closer to the objectived of the organization.
+- Owning the actions effected by prediction can be a source of competetive advantage that allows traditional businesses to capture some of the value from AI.
+- However, in some cases, where powerful AI tools provide a significant competitive advantage, new entrants may vertically integrate into owning the action and leverage there AI as a basis for competition 
