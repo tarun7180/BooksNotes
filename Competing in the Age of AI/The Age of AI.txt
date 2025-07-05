@@ -14,3 +14,5 @@
 - a new breed of firm, characterized by digital scale, scope, and learning, is eclipsing traditional managerial methods and constraints, colliding with traditional firms and institutions, and transforming our economy. Software, analytics, and AI are reshaping the operational backbone of the firm.
 - But we believe this transformation is about more than technology; it’s about the need to become a different kind of company.
 - confronting this threat does not involve spinning off an online business, putting a laboratory in Silicon Valley, or creating a digital business unit. Rather, it involves a much deeper and more general challenge: rearchitecting how the firm works and changing the way it gathers and uses data, reacts to information, makes operating decisions, and executes operating tasks.
+
+---------------done--------------
